@@ -36,3 +36,5 @@ jobs:
           tags: |
             abhishek138/docker-agent:${{ steps.prepare.outputs.tag_name }}
             abhishek138/docker-agent:latest
+            
+            
